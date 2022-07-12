@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sjSDM"]
-	path = sjSDM
-	url = https://github.com/theoreticalecology/s-jsdm
-	shallow = true
-	subdir = sjSDM
-	registered = true
