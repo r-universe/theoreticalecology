@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "sjSDM",
+    "oncran": true
+  }
+]
